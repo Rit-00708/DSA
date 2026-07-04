@@ -7,6 +7,7 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rit-00708/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Rit-00708/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rit-00708/DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ all my DSA ssolutions are in this
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rit-00708/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rit-00708/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
