@@ -42,4 +42,16 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Rit-00708/DSA/tree/master/1768-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rit-00708/DSA/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rit-00708/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rit-00708/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
