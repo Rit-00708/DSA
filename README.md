@@ -12,6 +12,7 @@ all my DSA ssolutions are in this
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rit-00708/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rit-00708/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rit-00708/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ all my DSA ssolutions are in this
 | [0027-remove-element](https://github.com/Rit-00708/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rit-00708/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rit-00708/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/Rit-00708/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rit-00708/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
