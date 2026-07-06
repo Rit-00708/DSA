@@ -80,4 +80,20 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rit-00708/DSA/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Rit-00708/DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Rit-00708/DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Rit-00708/DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Rit-00708/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
