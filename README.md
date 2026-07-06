@@ -45,6 +45,7 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rit-00708/DSA/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Rit-00708/DSA/tree/master/0058-length-of-last-word) |
 | [1768-merge-strings-alternately](https://github.com/Rit-00708/DSA/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
