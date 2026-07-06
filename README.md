@@ -17,6 +17,7 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rit-00708/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rit-00708/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Rit-00708/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ all my DSA ssolutions are in this
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rit-00708/DSA/tree/master/0013-roman-to-integer) |
 | [1768-merge-strings-alternately](https://github.com/Rit-00708/DSA/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -52,6 +54,7 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rit-00708/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Rit-00708/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
