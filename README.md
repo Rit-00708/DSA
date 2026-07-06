@@ -69,6 +69,7 @@ all my DSA ssolutions are in this
 | [0066-plus-one](https://github.com/Rit-00708/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rit-00708/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Rit-00708/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rit-00708/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -116,4 +117,12 @@ all my DSA ssolutions are in this
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rit-00708/DSA/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rit-00708/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rit-00708/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
