@@ -17,6 +17,7 @@ all my DSA ssolutions are in this
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rit-00708/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rit-00708/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rit-00708/DSA/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/Rit-00708/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ all my DSA ssolutions are in this
 | ------- |
 | [0035-search-insert-position](https://github.com/Rit-00708/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rit-00708/DSA/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Rit-00708/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
